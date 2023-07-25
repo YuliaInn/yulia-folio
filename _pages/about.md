@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: https://github.com/YuliaInn/yulia-folio/blob/master/assets/img/prof_pic.jpg
+  image: https://github.com/YuliaInn/yulia-folio/blob/gh-pages/assets/img/prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: false
 
